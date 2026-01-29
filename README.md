@@ -1,16 +1,33 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=45CE30&background=000000&center=false&vCenter=false&width=700&height=80&lines=%24+console.log(%22Keep+Learning...%22)%3B%0A%3E+%22Keep+Recording%22" alt="Typing SVG" />
 
-<!--
-**ziheon01/ziheon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+###  안녕하세요! 백엔드 개발자 김지헌입니다.
+- 효율적인 서버 구축과 인프라 자동화에 관심이 많습니다.
+- 꾸준한 학습과 기록을 지향합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+###  Tech Stacks
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
+<br/>
+
+### Github Stats
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ziheon01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jiheon's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziheon01&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+<br/>
+
+<img src="https://github.com/ziheon01/ziheon01/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+
+<br/>
+
+###  Open Source Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
