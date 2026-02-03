@@ -17,10 +17,10 @@
 <table>
   <tr>
     <td width="60%">
-      <img src="https://github-readme-stats-six-tan-o3pjbi3o9w.vercel.app/api?username=ziheon01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="stats" width="100%"/>
+      <img src="https://github-readme-stats-six-tan-o3pjbi3o9w.vercel.app/api?username=ziheon01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&v=1" alt="stats" width="100%"/>
     </td>
     <td width="40%">
-      <img src="https://github-readme-stats-six-tan-o3pjbi3o9w.vercel.app/api/top-langs/?username=ziheon01&layout=compact&theme=buefy&hide_border=true" alt="langs" width="100%"/>
+      <img src="https://github-readme-stats-six-tan-o3pjbi3o9w.vercel.app/api/top-langs/?username=ziheon01&layout=compact&theme=buefy&hide_border=true&v=1" alt="langs" width="100%"/>
     </td>
   </tr>
 </table>
