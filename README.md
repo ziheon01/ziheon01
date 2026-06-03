@@ -3,8 +3,13 @@
 <br/>
 
 ###  안녕하세요! 백엔드 개발자 김지헌입니다.
-- 효율적인 서버 구축과 인프라 자동화에 관심이 많습니다.
-- 꾸준한 학습과 기록을 지향합니다.
+- 복잡한 문제를 단순하게 구조화하는 백엔드 개발을 지향합니다.
+- 성능 병목과 데이터 정합성 같은 본질적인 문제에 집중합니다.
+- 이해한 것은 반드시 글로 남깁니다.
+
+<br/>
+
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ziheon01/posts)
 
 <br/>
 
@@ -24,10 +29,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<img src="https://github.com/ziheon01/ziheon01/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 
 <br/>
 
