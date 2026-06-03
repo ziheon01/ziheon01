@@ -33,4 +33,14 @@
 
 ###  Open Source Activity
 <!--START_SECTION:activity-->
+- 🚀 Contributed to [CODI-IT-team5/nb04-CODI-IT-team5](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5) - [[Docs] readme 작성](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5/pull/160)
+- 🚀 Contributed to [CODI-IT-team5/nb04-CODI-IT-team5](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5) - [[Fix] 주문가격 할인 버그 수정](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5/pull/158)
+- 🚀 Contributed to [CODI-IT-team5/nb04-CODI-IT-team5](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5) - [[Merge] hotfix 변경사항 통합](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5/pull/157)
+- 🚀 Contributed to [CODI-IT-team5/nb04-CODI-IT-team5](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5) - [[Hotfix] 배포 수정](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5/pull/156)
+- 🚀 Contributed to [CODI-IT-team5/nb04-CODI-IT-team5](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5) - [[Feat] soft delete, cron, hard-delete 테스트 코드 작성](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5/pull/155)
+- 🚀 Contributed to [CODI-IT-team5/nb04-CODI-IT-team5](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5) - [[Test] dev => deploy](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5/pull/153)
+- 🚀 Contributed to [CODI-IT-team5/nb04-CODI-IT-team5](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5) - [[Refactor] 등급 상승 알림+주문 로직 수정](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5/pull/148)
+- 🚀 Contributed to [CODI-IT-team5/nb04-CODI-IT-team5](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5) - [[Fix] 판매자 문의 삭제 권한 수정](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5/pull/145)
+- 🚀 Contributed to [CODI-IT-team5/nb04-CODI-IT-team5](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5) - [[Fix] 시드 데이터 수정( 할인율 데이터 추가)](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5/pull/144)
+- 🚀 Contributed to [CODI-IT-team5/nb04-CODI-IT-team5](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5) - [[ Test ] CI/CD 테스트 1](https://github.com/CODI-IT-team5/nb04-CODI-IT-team5/pull/142)
 <!--END_SECTION:activity-->
