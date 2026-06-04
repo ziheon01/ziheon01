@@ -2,7 +2,7 @@ import os
 import re
 import requests
 
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+GITHUB_TOKEN = os.getenv("GH_TOKEN")
 REPO_NAME = os.getenv("GITHUB_REPOSITORY")
 USER_NAME = REPO_NAME.split("/")[0]
 

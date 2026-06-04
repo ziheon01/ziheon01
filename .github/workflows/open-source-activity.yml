@@ -24,7 +24,7 @@ jobs:
         
       - name: Update README with Open Source Activity
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: python .github/scripts/update_activity.py
         
       - name: Commit and Push changes
